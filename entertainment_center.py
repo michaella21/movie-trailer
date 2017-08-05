@@ -51,5 +51,10 @@ once = media.Movie("Once",
                    "2006")
 
 movies = [amelie, silver_lining, once, martian, fifty_fifty, a_few_good_men]
+
+# These two funcions call the list of movie instances as input to generate 
+# an HTML file and open it in the browser. Use the proper function which
+# matches with the imported module on top. 
+
 #fresh_tomatoes.open_movies_page(movies)
 extra_fresh_tomatoes.open_movies_page(movies)

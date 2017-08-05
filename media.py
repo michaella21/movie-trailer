@@ -2,9 +2,11 @@ import webbrowser
 
 
 class Movie():
-    # This class creates an instance of a movie and its related information.
+    """ This class creates an instance of a movie and its related information."""
 
     def __init__(self, movie_title, movie_poster_url, movie_trailer_url,  movie_storyline, movie_director, movie_main_cast, year_released):
+        """ An instance of this class requires the following attributes: title, url of the poster image, url of the youtube trailer, short storyline, name of the director and main cast and the year when the movie was released. """
+        
         self.title = movie_title
         self.poster_image_url = movie_poster_url
         self.trailer_youtube_url = movie_trailer_url
