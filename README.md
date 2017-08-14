@@ -30,4 +30,4 @@ $ python entertainment_center.py
 
 ## Notice
 
-fresh_tomatoes.py is forked from [here](ud036_StarterCode/fresh_tomatoes.py) and extra_fresh_tomatoes.py is written based on fresh_tomatoes.py by myself. 
+fresh_tomatoes.py is forked from [here](https://github.com/udacity/ud036_StarterCode) and extra_fresh_tomatoes.py is written based on fresh_tomatoes.py by myself. 
